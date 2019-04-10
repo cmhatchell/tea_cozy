@@ -99,6 +99,7 @@ div {
   display: block;
 }
 
+/
 #mission {
   height: 700px;
   background-image: url(images/mission-background.jpg);
@@ -110,6 +111,8 @@ div {
   background-color: black;
   width: 100%;
 }
+
+/* store */
 
 #store{
   height: : 700px;
@@ -128,6 +131,9 @@ div {
   font-weight: bold;
   text-align: center;
 }
+
+/* location */
+
 #locations {
   background-image: url(images/locations-background.jpg);
   height: 500px;
@@ -149,6 +155,8 @@ div {
   width: 1100px;
   margin: auto;
 }
+
+/* contact */
 
 .container.locations {
   padding-top: 5px;
